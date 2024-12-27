@@ -1,0 +1,9 @@
+venv
+.env
+logs
+__pycache__
+output
+chromedriver-win64
+web_scraper_data.db
+index.pkl
+index.faiss
